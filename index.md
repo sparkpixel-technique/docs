@@ -3,20 +3,25 @@
 layout: home
 
 hero:
-  name: "Sparkpixel 文档"
-  text: "Sparkpixel 文档站"
-  tagline: My great project tagline
+  name: "Sparkpixel"
+  text: "构建梦想，探索无限"
+  tagline: "由微光像素科技提供支持"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /navigation
+    
+    - theme: brand
+      text: 服务器联盟
+      link: /server-league
+    
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 技术分享
+      link: /tech-share
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 服务器联盟
+    details: 我们牵头成立了服务器联盟。在这里，你可以找到各式各样的服务器，无论是高创造力的大佬，还是极限生存的高手，都可以和他们共同切磋和交流！
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
